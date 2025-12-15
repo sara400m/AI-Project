@@ -1,0 +1,10 @@
+Selected Feature Index,Selected Feature Name
+6,mean concavity
+14,smoothness error
+21,worst texture
+23,worst area
+24,worst smoothness
+,
+Fitness,0.8510548073411748
+Accuracy,0.9649122807017544
+Recall,0.9537037037037037
